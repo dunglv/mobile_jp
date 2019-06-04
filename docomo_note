@@ -12,3 +12,4 @@
 - Scope tương thích với scope trên website
 
 3. Cấu hình màn hình thanh toán docomo
+- Domain không chứa ký tự đặc biệt và theo chuẩn https://jp.globalsign.com/blog/articles/server_name_indication.html
