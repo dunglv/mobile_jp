@@ -36,4 +36,10 @@ $ php -S localhost:3000
 
 - Mở website trên trình duyệt với address: `https://192.168.1.243:3000`
 
-- ==> *Download docs đầy đủ tại [đây](https://drive.google.com/open?id=15BcLKxwfbkgWrF3NUGS75IS9Ju2hDgl4)*
+#### Một số lưu ý:
+> - Xem readme trong folder `/auth` và `/payment` để xem chi tiết. 
+> - Hãy đảm bảo các URL BP site đã được setting để docomo get thông tin đặt hàng.
+> - Hãy đảm bảo Realm URL map với Realm URl trên app xác thực docomo, đặc biệt là các ký tự cuối url, không thiếu cũng không được thừa.
+> - Hãy đảm Redirect URL đã được setting trên docomo.
+> - Gặp lỗi hãy tra mã lỗi với tài liệu tham khảo và resolve lỗi theo tài liệu.
+> - *Download docs đầy đủ tại [đây](https://drive.google.com/open?id=15BcLKxwfbkgWrF3NUGS75IS9Ju2hDgl4)*
