@@ -1,0 +1,9 @@
+Result=OK
+sCptok=<?php print $_REQUEST["sCptok"]."\n"; ?>
+sDate=<?php print date("Y-m-d H:i:s")."\n"; ?>
+sOpenid_identity=https://i.mydocomo.com/id/HzNlAKq8YiSUmWHJ1EB6s.2wHrQAT7GT2TXlIy45OS4_
+sOpenid_realm=https://tes.getsu-gaku.com/
+sSpcdbs1=<?php print $_REQUEST["sSpcdbs1"]."\n"; ?>
+sSpnms1=<?php print str_pad(time(), 20, 0, STR_PAD_LEFT)."\n"; ?>
+sPrics1=10
+sTypes1=USER1
